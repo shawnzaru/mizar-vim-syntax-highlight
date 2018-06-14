@@ -249,7 +249,7 @@ syn keyword mizReservedWords equalities expansions
 
 syn match mizComment "::.*$"
 
-"syn match mizLabel "A\d\+"
+syn match mizLabel "A\d\+"
 syn match mizLabel "Th\d\+"
 syn match mizLabel "Def\d\+"
 
