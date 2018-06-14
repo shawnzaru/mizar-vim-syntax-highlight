@@ -1,6 +1,7 @@
 " Vim syntax file
 " Language: Mizar Mathematical Library
 " Maintainer: Qingxiang Wang
+" Mizar Version: 8.1.08_5.50.1318
 " Latest Revision: 13 June 2018
 
 if exists("b:current_syntax")
