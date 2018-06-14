@@ -244,6 +244,7 @@ syn keyword mizReservedWords selector set sethood st struct such suppose
 syn keyword mizReservedWords symmetry synonym take that the then theorem
 syn keyword mizReservedWords theorems thesis thus to transitivity uniqueness
 syn keyword mizReservedWords vocabularies when where with wrt
+syn keyword mizReservedWords equalities expansions
 
 syn match mizComment "::.*$"
 
