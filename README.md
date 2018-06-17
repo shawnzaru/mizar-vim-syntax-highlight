@@ -15,6 +15,7 @@ file type detect:
 mkdir -p ~/.vim/ftdetect
 touch ~/.vim/ftdetect/miz.vim
 echo "au BufRead,BufNewFile *.miz set filetype=miz" >> ~/.vim/ftdetect/miz.vim
+echo "au BufRead,BufNewFile *.abs set filetype=miz" >> ~/.vim/ftdetect/miz.vim
 ```
 
 enjoy!
