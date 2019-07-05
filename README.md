@@ -4,7 +4,7 @@
 installation:
 
 ```
-cd Mizar-Vim-Sytax-Highlight
+cd mizar-vim-syntax-highlight
 mkdir -p ~/.vim/syntax
 cp miz.vim ~/.vim/syntax
 ```
